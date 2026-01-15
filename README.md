@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Suhao+Yu's+Github+Page" alt="Typing SVG" />
 </a>
 
-<div>&nbsp;</div>
-
 <div>
   <a href="https://x.com/SuhaoYu1020"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <!-- <a href="https://www.youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
@@ -18,27 +16,27 @@
   <a href="https://www.linkedin.com/in/suhao-yu-853117336/"><img src="https://img.shields.io/badge/Linkedin-领英-blue" /></a>
 </div>
 
+<div>&nbsp;</div>
+
 </div>
 
 <table width="100%">
 
-<tr><td>
+<tr><td width="100%">
 
-### 🤺 About Me
+### About Me
 
-<img align="right" width="88" src="./assets/welcome.gif" />
+<img align="right" width="88" src="./assets/welcome.gif" style="margin-right: 0; padding-right: 0;" />
 
-<p>📍 DATS @ Penn Engineering (Class of 2027)</p>
-<p>🎓 CS @ Tongji (Class of 2025)</p>
-<p>🔬 Research Assistant @ UPenn Working on <b style="color: #FF6B6B;">VLM</b></p>
-<p>🔬 Research Intern @ UCSC Working on <b style="color: #4CAF50;">Agent</b></p>
-<p>🛠️ Deputy Technical Director @ FingerDance</p>
+<p>&emsp;&emsp;📍 DATS @ Penn Engineering (Class of 2027) | 🎓 CS @ Tongji (Class of 2025)</p>
+<p>&emsp;&emsp;🔬 Research Assistant @ UPenn Working on <b style="color: #FF6B6B;">Vision Language Models (VLM)</b></p>
+<p>&emsp;&emsp;🔬 Research Intern @ UCSC Working on <b style="color: #4CAF50;">Autonomous Agents</b></p>
+<p>&emsp;&emsp;🛠️ Deputy Technical Director @ FingerDance Working on <b style="color: #9B59B6;">Video Generation</b></p>
+<p>&emsp;&emsp;💡 Passionate about AI, Machine Learning, and building intelligent systems that make a difference. &emsp;&emsp;</p>
 
 </td></tr>
 
 </table>
-
-## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
